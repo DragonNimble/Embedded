@@ -1,6 +1,10 @@
 #include <REGX52.H>
 #include <INTRINS.H>
 
+////////////////////
+//This program will show 1314520 
+/////////////////
+
 void Delay(unsigned int xms)		//@12.000MHz
 {
 	unsigned char i, j;
