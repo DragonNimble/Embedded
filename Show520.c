@@ -12,7 +12,7 @@ void Delay(unsigned int xms)		//@12.000MHz
 		{
 			while (--j);
 		} while (--i);
-		}
+	}
 }
 void main()
 {
